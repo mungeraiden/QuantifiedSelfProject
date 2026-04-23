@@ -1,0 +1,308 @@
+{
+  "tracks" : [ {
+    "artist" : "Linkin Park",
+    "album" : "Hybrid Theory",
+    "track" : "Crawling",
+    "uri" : "spotify:track:57BrRMwf9LrcmuOsyGilwr"
+  }, {
+    "artist" : "The Goo Goo Dolls",
+    "album" : "Dizzy up the Girl",
+    "track" : "Iris",
+    "uri" : "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs"
+  }, {
+    "artist" : "The Jon Spencer Blues Explosion",
+    "album" : "Orange",
+    "track" : "Bellbottoms Original Long Ending",
+    "uri" : "spotify:track:2tSoHS1kHJ6kdffkyVTOdC"
+  }, {
+    "artist" : "Linkin Park",
+    "album" : "Meteora",
+    "track" : "Faint",
+    "uri" : "spotify:track:4Yf5bqU3NK4kNOypcrLYwU"
+  }, {
+    "artist" : "Coldplay",
+    "album" : "Viva La Vida or Death and All His Friends",
+    "track" : "Viva La Vida",
+    "uri" : "spotify:track:1mea3bSkSGXuIRvnydlB5b"
+  }, {
+    "artist" : "The Smashing Pumpkins",
+    "album" : "Mellon Collie And The Infinite Sadness",
+    "track" : "Thru The Eyes Of Ruby - Remastered 2012",
+    "uri" : "spotify:track:5W8AYj6e6syodRPzPrJcrb"
+  }, {
+    "artist" : "Tucker Myrick",
+    "album" : "Don't Blame It On Me",
+    "track" : "Don't Blame It On Me",
+    "uri" : "spotify:track:3OScVl706857TtTLw1YMSP"
+  }, {
+    "artist" : "Lil Peep",
+    "album" : "Come Over When You're Sober, Pt. 2",
+    "track" : "Falling Down - Bonus Track",
+    "uri" : "spotify:track:4jvjzW7Hm0yK4LvvE0Paz9"
+  }, {
+    "artist" : "Tom Odell",
+    "album" : "Long Way Down (Deluxe)",
+    "track" : "Another Love",
+    "uri" : "spotify:track:3JvKfv6T31zO0ini8iNItO"
+  }, {
+    "artist" : "U2",
+    "album" : "The Joshua Tree",
+    "track" : "I Still Haven't Found What I'm Looking For",
+    "uri" : "spotify:track:6wpGqhRvJGNNXwWlPmkMyO"
+  }, {
+    "artist" : "Alice In Chains",
+    "album" : "Dirt",
+    "track" : "Them Bones (2022 Remaster)",
+    "uri" : "spotify:track:4A065x9kJt955eGVqf813g"
+  }, {
+    "artist" : "Linkin Park",
+    "album" : "One More Light",
+    "track" : "One More Light",
+    "uri" : "spotify:track:3xXBsjrbG1xQIm1xv1cKOt"
+  }, {
+    "artist" : "Foo Fighters",
+    "album" : "Greatest Hits",
+    "track" : "Everlong - Acoustic Version",
+    "uri" : "spotify:track:3QmesrvdbPjwf7i40nht1D"
+  }, {
+    "artist" : "Jimmy Eat World",
+    "album" : "Bleed American",
+    "track" : "Sweetness",
+    "uri" : "spotify:track:429IbFR4yp2J81CeTwF5iY"
+  }, {
+    "artist" : "The White Stripes",
+    "album" : "Elephant",
+    "track" : "Seven Nation Army",
+    "uri" : "spotify:track:3dPQuX8Gs42Y7b454ybpMR"
+  }, {
+    "artist" : "Muscadine Bloodline",
+    "album" : "Longleaf Lo-fi",
+    "track" : "Silence",
+    "uri" : "spotify:track:3G7P48rlbl8oWdRkWgtphd"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Spider-Man: Into the Spider-Verse",
+    "track" : "Scared of the Dark (feat. XXXTENTACION)",
+    "uri" : "spotify:track:3vWzyGTu6Ovo1GdrcJqH6e"
+  }, {
+    "artist" : "Gorillaz",
+    "album" : "Demon Days",
+    "track" : "Dirty Harry (feat. Bootie Brown)",
+    "uri" : "spotify:track:2bfGNzdiRa1jXZRdfssSzR"
+  }, {
+    "artist" : "The White Stripes",
+    "album" : "Seven Nation Army",
+    "track" : "Seven Nation Army - The Glitch Mob Remix",
+    "uri" : "spotify:track:4IiuExPFijOGZnVxGsKWcc"
+  }, {
+    "artist" : "Incubus",
+    "album" : "Morning View",
+    "track" : "Wish You Were Here",
+    "uri" : "spotify:track:6KtLECDztnah63TNmV4Plw"
+  }, {
+    "artist" : "TOOL",
+    "album" : "Fear Inoculum",
+    "track" : "Fear Inoculum",
+    "uri" : "spotify:track:39zWYYZStDgWi32sOU9AX4"
+  }, {
+    "artist" : "Depeche Mode",
+    "album" : "Violator | The 12\" Singles",
+    "track" : "Enjoy the Silence",
+    "uri" : "spotify:track:0yp3TvJNlG50Q4tAHWNCRm"
+  }, {
+    "artist" : "Gorillaz",
+    "album" : "Humanz",
+    "track" : "She's My Collar (feat. Kali Uchis)",
+    "uri" : "spotify:track:3lIxtCaROdRDuTnNBDm3n2"
+  }, {
+    "artist" : "Red Hot Chili Peppers",
+    "album" : "By the Way",
+    "track" : "By the Way",
+    "uri" : "spotify:track:1f2V8U1BiWaC9aJWmpOARe"
+  }, {
+    "artist" : "Kali Uchis",
+    "album" : "Moonlight",
+    "track" : "Moonlight",
+    "uri" : "spotify:track:2i2gDpKKWjvnRTOZRhaPh2"
+  }, {
+    "artist" : "Johnny Cash",
+    "album" : "Unearthed",
+    "track" : "Hurt",
+    "uri" : "spotify:track:5rpRzNcJZqKQXk9PIjreB6"
+  }, {
+    "artist" : "Linkin Park",
+    "album" : "The Emptiness Machine",
+    "track" : "The Emptiness Machine",
+    "uri" : "spotify:track:2PnlsTsOTLE5jnBnNe2K0A"
+  }, {
+    "artist" : "The Smashing Pumpkins",
+    "album" : "Mellon Collie And The Infinite Sadness",
+    "track" : "Bullet With Butterfly Wings - Remastered 2012",
+    "uri" : "spotify:track:4qMzPtAZe0C9KWpWIzvZAP"
+  }, {
+    "artist" : "Kings of Leon",
+    "album" : "Only By The Night",
+    "track" : "Sex on Fire",
+    "uri" : "spotify:track:0ntQJM78wzOLVeCUAW7Y45"
+  }, {
+    "artist" : "The Killers",
+    "album" : "Hot Fuss",
+    "track" : "Mr. Brightside",
+    "uri" : "spotify:track:003vvx7Niy0yvhvHt4a68B"
+  }, {
+    "artist" : "Gorillaz",
+    "album" : "Cracker Island (feat. Thundercat)",
+    "track" : "Cracker Island (feat. Thundercat)",
+    "uri" : "spotify:track:2W3ZpQg9i6lE6kmHbcdu9N"
+  }, {
+    "artist" : "System Of A Down",
+    "album" : "Toxicity",
+    "track" : "Aerials",
+    "uri" : "spotify:track:4e9eGQYsOiBcftrWXwsVco"
+  }, {
+    "artist" : "Ellie Goulding",
+    "album" : "An Introduction To Ellie Goulding EP",
+    "track" : "Lights",
+    "uri" : "spotify:track:11ozIUBoXAgRTVWelDn4pL"
+  }, {
+    "artist" : "Alice In Chains",
+    "album" : "Facelift",
+    "track" : "Man in the Box",
+    "uri" : "spotify:track:6gZVQvQZOFpzIy3HblJ20F"
+  }, {
+    "artist" : "The Dave Brubeck Quartet",
+    "album" : "Baby Driver (Music from the Motion Picture)",
+    "track" : "Unsquare Dance",
+    "uri" : "spotify:track:3FYDiueg0uwQiN7JVtC9CE"
+  }, {
+    "artist" : "The Offspring",
+    "album" : "Smash",
+    "track" : "Come Out and Play",
+    "uri" : "spotify:track:5JJDu0Z5DKe7mR31MGksSg"
+  }, {
+    "artist" : "Kid Koala",
+    "album" : "Baby Driver (Music from the Motion Picture)",
+    "track" : "\"Was He Slow?\" - Music From The Motion Picture Baby Driver",
+    "uri" : "spotify:track:283fC78iSwdjeo5OM5nlQp"
+  } ],
+  "albums" : [ {
+    "artist" : "Korn",
+    "album" : "Follow The Leader",
+    "uri" : "spotify:album:0gsiszk6JWYwAyGvaTTud4"
+  }, {
+    "artist" : "Nine Inch Nails",
+    "album" : "TRON: Ares",
+    "uri" : "spotify:album:47pjW3XDPW99NShtkeewxl"
+  }, {
+    "artist" : "Korn",
+    "album" : "Life Is Peachy",
+    "uri" : "spotify:album:2b813fSxxzp9lcOfnLrrTH"
+  }, {
+    "artist" : "Temple Of The Dog",
+    "album" : "Temple Of The Dog",
+    "uri" : "spotify:album:63HdXCn0Xz1pRZc2GzMw7k"
+  }, {
+    "artist" : "Linkin Park",
+    "album" : "Hybrid Theory",
+    "uri" : "spotify:album:2pKw6GERJVAD61449B1EEM"
+  }, {
+    "artist" : "C418",
+    "album" : "Minecraft - Volume Alpha",
+    "uri" : "spotify:album:3Gt7rOjcZQoHCfnKl5AkK7"
+  }, {
+    "artist" : "Nine Inch Nails",
+    "album" : "With Teeth",
+    "uri" : "spotify:album:56Us3Q6UIM4jKJZlWhqddL"
+  }, {
+    "artist" : "TOOL",
+    "album" : "Ænima",
+    "uri" : "spotify:album:6yWMN087PgSimbcVmHLEwG"
+  }, {
+    "artist" : "Denzel Curry",
+    "album" : "Melt My Eyez See Your Future",
+    "uri" : "spotify:album:7KtyUeiJidoZO0ybxBXw0Q"
+  }, {
+    "artist" : "Linkin Park",
+    "album" : "Meteora",
+    "uri" : "spotify:album:4Gfnly5CzMJQqkUFfoHaP3"
+  }, {
+    "artist" : "Thee Sacred Souls",
+    "album" : "Thee Sacred Souls",
+    "uri" : "spotify:album:6ofJrAZaaX0iWTXYXObUxE"
+  }, {
+    "artist" : "Thee Sacred Souls",
+    "album" : "Got a Story to Tell",
+    "uri" : "spotify:album:6yvKcQNyd09wYCCp8O8mNB"
+  } ],
+  "shows" : [ {
+    "name" : "Spitballers Comedy Podcast",
+    "publisher" : "Comedy Podcast",
+    "uri" : "spotify:show:0MkknKUao1N3VbF6Wa3a3v"
+  }, {
+    "name" : "The Joe Rogan Experience",
+    "publisher" : "Joe Rogan",
+    "uri" : "spotify:show:4rOoJ6Egrf8K2IrywzwOMk"
+  }, {
+    "name" : "Wait Wait... Don't Tell Me!",
+    "publisher" : "NPR",
+    "uri" : "spotify:show:0dWpNy3iA6Mm3xYaHB2Zi9"
+  } ],
+  "episodes" : [ {
+    "name" : "The 15 Prayers of St Brigid of Sweden",
+    "show" : "St. Dominic's Weekly",
+    "uri" : "spotify:episode:5gLJooscqnwGUB8fDHUj7R"
+  } ],
+  "bannedTracks" : [ ],
+  "artists" : [ {
+    "name" : "311",
+    "uri" : "spotify:artist:41Q0HrwWBtuUkJc7C1Rp6K"
+  }, {
+    "name" : "Dire Straits",
+    "uri" : "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+  }, {
+    "name" : "Emmett Parker",
+    "uri" : "spotify:artist:29xR1f21PtbeQgOtn8q66X"
+  }, {
+    "name" : "Fishbone",
+    "uri" : "spotify:artist:2X3pNc13eRGofTO9Yt3sMi"
+  }, {
+    "name" : "Foo Fighters",
+    "uri" : "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+  }, {
+    "name" : "Gorillaz",
+    "uri" : "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+  }, {
+    "name" : "Green Jelly",
+    "uri" : "spotify:artist:6dyxkRwYuTw6ezj1tjC2rY"
+  }, {
+    "name" : "Korn",
+    "uri" : "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD"
+  }, {
+    "name" : "Linkin Park",
+    "uri" : "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+  }, {
+    "name" : "Nine Inch Nails",
+    "uri" : "spotify:artist:0X380XXQSNBYuleKzav5UO"
+  }, {
+    "name" : "Nirvana",
+    "uri" : "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+  }, {
+    "name" : "Pearl Jam",
+    "uri" : "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+  }, {
+    "name" : "Red Hot Chili Peppers",
+    "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+  }, {
+    "name" : "Stone Temple Pilots",
+    "uri" : "spotify:artist:2UazAtjfzqBF0Nho2awK4z"
+  }, {
+    "name" : "TOOL",
+    "uri" : "spotify:artist:2yEwvVSSSUkcLeSTNyHKh8"
+  }, {
+    "name" : "The Police",
+    "uri" : "spotify:artist:5NGO30tJxFlKixkPSgXcFE"
+  } ],
+  "bannedArtists" : [ ],
+  "pageMatch" : [ ],
+  "other" : [ ]
+}

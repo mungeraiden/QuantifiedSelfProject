@@ -1,0 +1,403 @@
+{
+  "stats" : [ {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Hurt",
+      "streamCount" : 4,
+      "secondsPlayed" : 1061
+    }, {
+      "name" : "Nutshell",
+      "streamCount" : 4,
+      "secondsPlayed" : 509
+    }, {
+      "name" : "Something in the Orange",
+      "streamCount" : 4,
+      "secondsPlayed" : 865
+    }, {
+      "name" : "Feel It",
+      "streamCount" : 3,
+      "secondsPlayed" : 314
+    }, {
+      "name" : "Sober",
+      "streamCount" : 2,
+      "secondsPlayed" : 612
+    }, {
+      "name" : "With Or Without You",
+      "streamCount" : 2,
+      "secondsPlayed" : 590
+    }, {
+      "name" : "Wish You Were Here",
+      "streamCount" : 2,
+      "secondsPlayed" : 530
+    }, {
+      "name" : "Discipline",
+      "streamCount" : 2,
+      "secondsPlayed" : 518
+    }, {
+      "name" : "Every Breath You Take",
+      "streamCount" : 2,
+      "secondsPlayed" : 506
+    }, {
+      "name" : "I Remember Everything (feat. Kacey Musgraves)",
+      "streamCount" : 2,
+      "secondsPlayed" : 454
+    } ],
+    "topArtists" : [ {
+      "name" : "Nine Inch Nails",
+      "streamCount" : 8,
+      "secondsPlayed" : 1998
+    }, {
+      "name" : "Zach Bryan",
+      "streamCount" : 8,
+      "secondsPlayed" : 1701
+    }, {
+      "name" : "Kings of Leon",
+      "streamCount" : 8,
+      "secondsPlayed" : 1786
+    }, {
+      "name" : "Katy Perry",
+      "streamCount" : 5,
+      "secondsPlayed" : 1119
+    }, {
+      "name" : "OneRepublic",
+      "streamCount" : 5,
+      "secondsPlayed" : 957
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 4,
+      "secondsPlayed" : 787
+    }, {
+      "name" : "Alice In Chains",
+      "streamCount" : 4,
+      "secondsPlayed" : 509
+    }, {
+      "name" : "Coldplay",
+      "streamCount" : 4,
+      "secondsPlayed" : 1018
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 3,
+      "secondsPlayed" : 690
+    }, {
+      "name" : "TOOL",
+      "streamCount" : 3,
+      "secondsPlayed" : 656
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Message In A Bottle",
+      "streamCount" : 3,
+      "secondsPlayed" : 862
+    }, {
+      "name" : "Shout",
+      "streamCount" : 3,
+      "secondsPlayed" : 786
+    }, {
+      "name" : "You Make My Dreams (Come True)",
+      "streamCount" : 3,
+      "secondsPlayed" : 355
+    }, {
+      "name" : "One Headlight",
+      "streamCount" : 2,
+      "secondsPlayed" : 607
+    }, {
+      "name" : "Sister Christian",
+      "streamCount" : 2,
+      "secondsPlayed" : 604
+    }, {
+      "name" : "Bad Company - 2015 Remaster",
+      "streamCount" : 2,
+      "secondsPlayed" : 576
+    }, {
+      "name" : "High Enough",
+      "streamCount" : 2,
+      "secondsPlayed" : 574
+    }, {
+      "name" : "Clocks",
+      "streamCount" : 2,
+      "secondsPlayed" : 566
+    }, {
+      "name" : "Caught Up In You",
+      "streamCount" : 2,
+      "secondsPlayed" : 558
+    }, {
+      "name" : "Don't Tell Me You Love Me",
+      "streamCount" : 2,
+      "secondsPlayed" : 525
+    } ],
+    "topArtists" : [ {
+      "name" : "Night Ranger",
+      "streamCount" : 14,
+      "secondsPlayed" : 3626
+    }, {
+      "name" : "Bruno Mars",
+      "streamCount" : 11,
+      "secondsPlayed" : 2367
+    }, {
+      "name" : "Van Halen",
+      "streamCount" : 10,
+      "secondsPlayed" : 2282
+    }, {
+      "name" : "Coldplay",
+      "streamCount" : 8,
+      "secondsPlayed" : 2135
+    }, {
+      "name" : "The Cars",
+      "streamCount" : 8,
+      "secondsPlayed" : 1619
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 7,
+      "secondsPlayed" : 1514
+    }, {
+      "name" : "The Police",
+      "streamCount" : 6,
+      "secondsPlayed" : 1554
+    }, {
+      "name" : "Styx",
+      "streamCount" : 6,
+      "secondsPlayed" : 1513
+    }, {
+      "name" : "Red Hot Chili Peppers",
+      "streamCount" : 5,
+      "secondsPlayed" : 1287
+    }, {
+      "name" : "Tears For Fears",
+      "streamCount" : 5,
+      "secondsPlayed" : 1270
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-12",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Everybody Hurts",
+      "streamCount" : 4,
+      "secondsPlayed" : 959
+    }, {
+      "name" : "With Or Without You",
+      "streamCount" : 3,
+      "secondsPlayed" : 885
+    }, {
+      "name" : "The Boys Of Summer - Remastered 2024",
+      "streamCount" : 3,
+      "secondsPlayed" : 867
+    }, {
+      "name" : "Starman - 2012 Remaster",
+      "streamCount" : 3,
+      "secondsPlayed" : 762
+    }, {
+      "name" : "Dancing In the Dark",
+      "streamCount" : 3,
+      "secondsPlayed" : 735
+    }, {
+      "name" : "You Shook Me All Night Long",
+      "streamCount" : 3,
+      "secondsPlayed" : 630
+    }, {
+      "name" : "Drive - 2017 Remaster",
+      "streamCount" : 3,
+      "secondsPlayed" : 617
+    }, {
+      "name" : "Wet Hands",
+      "streamCount" : 3,
+      "secondsPlayed" : 270
+    }, {
+      "name" : "Purple Rain",
+      "streamCount" : 2,
+      "secondsPlayed" : 1042
+    }, {
+      "name" : "Shout",
+      "streamCount" : 2,
+      "secondsPlayed" : 786
+    } ],
+    "topArtists" : [ {
+      "name" : "C418",
+      "streamCount" : 26,
+      "secondsPlayed" : 4834
+    }, {
+      "name" : "U2",
+      "streamCount" : 9,
+      "secondsPlayed" : 2654
+    }, {
+      "name" : "Moore",
+      "streamCount" : 9,
+      "secondsPlayed" : 1520
+    }, {
+      "name" : "Dire Straits",
+      "streamCount" : 6,
+      "secondsPlayed" : 1931
+    }, {
+      "name" : "Soundgarden",
+      "streamCount" : 6,
+      "secondsPlayed" : 1736
+    }, {
+      "name" : "Red Hot Chili Peppers",
+      "streamCount" : 6,
+      "secondsPlayed" : 1437
+    }, {
+      "name" : "Foo Fighters",
+      "streamCount" : 5,
+      "secondsPlayed" : 1265
+    }, {
+      "name" : "Everclear",
+      "streamCount" : 5,
+      "secondsPlayed" : 1019
+    }, {
+      "name" : "Tears For Fears",
+      "streamCount" : 4,
+      "secondsPlayed" : 1288
+    }, {
+      "name" : "David Bowie",
+      "streamCount" : 4,
+      "secondsPlayed" : 1133
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-01",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Ski Pt 2 (refined)",
+      "listeningPercentage" : 38.21864608980379
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Message In A Bottle",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Oxygène",
+      "secondEntity" : "Role Model 2023 - Radio Edit"
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Chillax",
+      "listeningPercentage" : 45.81177875049741
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "NÜLL",
+      "listeningPercentage" : 44.3653362099964
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "TOOL", "Audioslave", "Linkin Park", "Schism", "Be Yourself", "Stinkfist", "Sober", "Shine", "Blurry" ],
+      "milestoneListeningSeconds" : 30717
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "How I'll try to like Country",
+      "listeningPercentage" : 39.6549953794024
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EQpj7X7UK8OOF",
+      "listeningPercentage" : 35.29167272802843
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "C418", "Linkin Park", "Stone Temple Pilots", "No Ordinary Love", "Haunt Muskie", "No Diggity", "Enter Sandman - Remastered 2021", "Iris", "Tears in Heaven" ],
+      "milestoneListeningSeconds" : 37183
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "TOOL",
+      "secondEntity" : "Bouss"
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Sweater Weather",
+      "country" : "US",
+      "position" : 9,
+      "previousPosition" : 16,
+      "numberOfListeners" : 3183168
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Feel Good Inc.",
+      "streamCount" : 7
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Elton John",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Sun Araw",
+      "secondEntity" : "Megan Moroney"
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Alice In Chains",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Forked Reality",
+      "country" : "US",
+      "position" : 5869
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Johnny Cash", "Nirvana", "Pearl Jam", "Glycerine - Remastered", "Everlong - Live at the Pantages Theatre, Los Angeles, CA - August 2006", "All Apologies", "Jane Says - Live", "Paranoid Android", "Corduroy" ],
+      "milestoneListeningSeconds" : 140336
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Red Hot Chili Peppers",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Init",
+      "country" : "US",
+      "position" : 7112
+    }
+  } ]
+}

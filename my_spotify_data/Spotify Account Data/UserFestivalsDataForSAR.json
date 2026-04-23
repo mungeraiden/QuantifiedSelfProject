@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "767780241aeb4b84a6481f45279786db",
+  "totalArtistsMatched" : 10,
+  "userLineupMatchPercentile" : 44,
+  "festivalPersona" : "THE CROWD FAVORITE",
+  "topArtists" : [ {
+    "name" : "Kali Uchis"
+  }, {
+    "name" : "Lorde"
+  }, {
+    "name" : "Thee Sacred Souls"
+  }, {
+    "name" : "A$AP Rocky"
+  }, {
+    "name" : "The Alchemist"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

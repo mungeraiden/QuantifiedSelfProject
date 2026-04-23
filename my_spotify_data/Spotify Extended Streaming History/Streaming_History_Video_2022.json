@@ -1,0 +1,27 @@
+[
+  {
+    "ts": "2022-04-20T21:25:04Z",
+    "platform": "iOS 15.4.1 (iPhone12,8)",
+    "ms_played": 25102,
+    "conn_country": "US",
+    "ip_addr": "100.36.163.183",
+    "master_metadata_track_name": null,
+    "master_metadata_album_artist_name": null,
+    "master_metadata_album_album_name": null,
+    "spotify_track_uri": null,
+    "episode_name": "fortnite battle pass",
+    "episode_show_name": "Certified Hood Classics",
+    "spotify_episode_uri": "spotify:episode:5PS8gWyJxyrxWWNbLnv7dI",
+    "audiobook_title": null,
+    "audiobook_uri": null,
+    "audiobook_chapter_uri": null,
+    "audiobook_chapter_title": null,
+    "reason_start": "clickrow",
+    "reason_end": "endplay",
+    "shuffle": false,
+    "skipped": false,
+    "offline": false,
+    "offline_timestamp": null,
+    "incognito_mode": false
+  }
+]
