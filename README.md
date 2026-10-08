@@ -1,4 +1,4 @@
-This project analyzes my Spotify listening history to determine whether my music listening habits changed after becoming DJ Desmet.
+This project analyzes my Spotify listening history to determine whether my music listening habits changed after becoming Gonzaga's [DJ Desmet](https://www.gonzagabulletin.com/news/two-new-dj-desmets-look-to-foster-community-and-build-a-legacy/article_be039f21-d54b-4915-ace2-671231c7fbcc.html).
 Using Spotify Extended Streaming History data, I looked at trends in daily listening time, artist preferences, and behavioral changes over time.
 I then applied machine learning classification models to predict whether a day would be considered a high-listening or low-listening day based on time and calendar-related features.
 
